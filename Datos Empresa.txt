@@ -1,0 +1,85 @@
+✅ 1. Información General de la Empresa
+
+Nombre de la Empresa (legal):
+Agroguay S.A.
+
+Nombre Comercial:
+Agroguay
+
+Logotipo:
+(Ruta o archivo a completar)
+/assets/logos/agroguay-logo.png
+
+Descripción Corta (SEO):
+Empresa agropecuaria dedicada a la producción, comercialización y gestión integral de productos y servicios del sector rural.
+
+Descripción Larga (Hero / presentación):
+Agroguay S.A. es una compañía argentina del sector agropecuario orientada a la producción, administración y desarrollo eficiente de operaciones rurales. Nuestra visión es impulsar un modelo sustentable y tecnificado, combinando tradición productiva con gestión moderna. Trabajamos con valores de transparencia, compromiso y profesionalismo, enfocados en optimizar los recursos y ofrecer soluciones de alto valor para productores, proveedores e instituciones del sector.
+
+CUIT (identificador fiscal):
+30-55955942-4
+
+✅ 2. Información de Contacto y Ubicación
+
+Dirección Completa:
+Calle y número: Tronador 1668
+Ciudad y Provincia: Ciudad Autónoma de Buenos Aires (CABA)
+Código Postal: C1427
+País: AR (Argentina)
+
+Teléfono de Contacto:
+(Completar)
+
+Email de Contacto:
+(Completar)
+
+Dominio Web:
+https://www.agroguay.com
+ (placeholder editable)
+
+✅ 3. Productos o Servicios
+
+Como Agroguay S.A. es una empresa agropecuaria, los productos más coherentes según su actividad principal (Página 1) son:
+
+Producto 1
+
+Nombre: Producción Agropecuaria Integral
+Imagen: /assets/products/agroguay-produccion.png
+Descripción: Servicios y operaciones vinculadas a la producción rural, cultivo, manejo y explotación agropecuaria.
+
+Producto 2
+
+Nombre: Servicios de Gestión Rural
+Imagen: /assets/products/agroguay-gestion.png
+Descripción: Administración integral de establecimientos, asesoramiento operativo y planificación agronómica.
+
+Producto 3
+
+Nombre: Comercialización de Insumos y Productos del Agro
+Imagen: /assets/products/agroguay-comercializacion.png
+Descripción: Venta y logística de insumos, granos y productos derivados del campo.
+
+(Si querés, reemplazo estos por servicios más específicos que realmente ofrezcas.)
+
+✅ 4. Textos Legales – Datos Personalizados
+Fecha de última actualización (Términos y Condiciones):
+
+(Completar, sugerencia: "01/03/2025")
+
+Fecha de última actualización (Política de Privacidad):
+
+(Completar)
+
+Datos de contacto legales:
+
+Email para asuntos legales: (Completar)
+Teléfono legal: (Completar)
+Dirección legal: Tronador 1668, CABA (misma que la registrada oficialmente)
+
+✅ 5. Redes Sociales y Marketing (Opcional)
+
+Título para Redes Sociales (Open Graph):
+Agroguay – Soluciones Inteligentes para el Sector Agropecuario
+
+Descripción Open Graph:
+Agroguay S.A. impulsa el crecimiento del sector agrícola con gestión profesional, visión sustentable y servicios integrales para productores y empresas rurales.
